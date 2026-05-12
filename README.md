@@ -23,16 +23,6 @@ Soy una persona interesada en la tecnología y el desarrollo de software. Actual
 - 🌐 Intranet para Club Deportivo (en progreso)
 
 
-
-## Pruebas 
-
-![Torneo de Videojuegos](https://i.imgur.com/vAFN1eq.png)
-![.](https://i.imgur.com/vCqn9fz.png)
-
-![APP Datos Fisicos](https://i.imgur.com/s2ABf5c.png)
-![.](https://i.imgur.com/RvuAq2n.png)
-
-
 ## 🧰 Tecnologías que uso
 
 - SQL (SQLite)
